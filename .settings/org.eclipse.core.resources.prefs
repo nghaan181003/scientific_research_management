@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Controller/DKController.java=UTF-8
+encoding//src/main/java/Controller/DeTaiController.java=UTF-8
+encoding//src/main/java/Controller/DownloadFileController.java=UTF-8
+encoding//src/main/java/Controller/LoginController.java=UTF-8
+encoding//src/main/java/Dao/DangKyDao.java=UTF-8
+encoding//src/main/java/Dao/DeTaiDao.java=UTF-8
+encoding//src/main/java/Dao/NotificationDao.java=UTF-8
+encoding//src/main/java/Dao/UserDao.java=UTF-8
+encoding//src/main/java/Model/DinhKem.java=UTF-8
+encoding//src/main/webapp/AdminSideBar.jsp=UTF-8
